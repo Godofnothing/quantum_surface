@@ -1,0 +1,7 @@
+#Ignore following extensions
+
+*.png
+*.gif
+*.conf
+
+bin/*
